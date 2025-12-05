@@ -9,8 +9,10 @@ A fully responsive Bird Slider created with HTML, CSS, and JavaScript. This proj
 
 ---
 
-## Live Demo
-<a href="https://vidyakhavare.github.io/Bird-Slider/">
+
+## 🔗 Live Demo  
+[Click here to view the live project](https://vidyakhavare.github.io/Bird-Slider/)
+
 
 ---
 
