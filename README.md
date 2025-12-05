@@ -4,7 +4,7 @@ A fully responsive Bird Slider created with HTML, CSS, and JavaScript. This proj
 ---
 
 ## 📸 Project Preview  
-<img alt="BirdSlider" src="image.png"
+<img alt="BirdSlider" src="image.png">
 
 
 ---
